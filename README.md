@@ -8,7 +8,7 @@ This notebook is not copied from any other kernels in kaggles, and it scores top
 
 ## View the report  / Run the codes
 
-[Download](https://github.com/Shiutang-Li/Moscow-house-price/blob/master/Single%20XGboost.ipynb)
+[Single XGboost.ipynb](https://github.com/Shiutang-Li/Moscow-house-price/blob/master/Single%20XGboost.ipynb)
 
 ## Dependencies 
 
