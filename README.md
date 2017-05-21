@@ -13,5 +13,5 @@ This notebook is not copied from any other kernels in kaggles, and it scores top
 ## Dependencies 
 
 * Python 3.5   
-* xgboost   
+* xgboost 0.6  (To use argument "max_num_features" of "plot_importance", may need to update xgboost or revise source code)  
 * pandas, numpy, seaborn, pylab
