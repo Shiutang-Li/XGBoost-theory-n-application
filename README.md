@@ -29,9 +29,9 @@ This notebook is not copied from any other kernels in kaggles, and it scores top
 
 (Main parameters / some preprocessing steps are removed because this competition is still in progress)
 
-**Step 1** Download train.csv and test.csv from https://www.kaggle.com/c/sberbank-russian-housing-market/data
+**Step 1.** Download train.csv and test.csv from https://www.kaggle.com/c/sberbank-russian-housing-market/data
 
-**Step 2**
+**Step 2.**
 ```
 python preprocessing.py
 python build_xgboost_model.py
