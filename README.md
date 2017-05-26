@@ -2,7 +2,7 @@
 
 ## Introduction: Theory
 
-An introductory lecture to XGBoost is scheduled in Big Data Utah meetup (https://www.meetup.com/BigDataUtah/events/238610160/). The lecture file ([talk.pdf](https://github.com/Shiutang-Li/Intro-to-XGBoost/blob/master/talk.pdf)) contains three main parts:
+An introductory lecture to XGBoost is scheduled in [Big Data Utah meetup](https://www.meetup.com/BigDataUtah/events/238610160/). The lecture file ([talk.pdf](https://github.com/Shiutang-Li/Intro-to-XGBoost/blob/master/talk.pdf)) contains three main parts:
 
 1. Analysis of XGBoost algorithm, with math explained in detail.
 
