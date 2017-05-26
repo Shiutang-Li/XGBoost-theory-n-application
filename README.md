@@ -23,12 +23,23 @@ This notebook is not copied from any other kernels in kaggles, and it scores top
 |![](1.jpg) | ![](2.jpg)| 
 |:---:|:---:|
 
-## View the report  / Run the codes
+## View the report 
 
-[Single XGboost.ipynb](https://github.com/Shiutang-Li/Moscow-house-price/blob/master/Single%20XGboost.ipynb) (Parameters of XGBoost are removed because the competition is still in progress)
+## Usage
+
+(Main parameters / some preprocessing steps are removed because this competition is still in progress)
+
+**Step 1** Download train.csv and test.csv from https://www.kaggle.com/c/sberbank-russian-housing-market/data
+
+**Step 2**
+```
+python preprocessing.py
+build_xgboost_model.py
+predict.py
+```
 
 ## Dependencies 
 
-* Python 3.5   
+* Python 3.5
 * xgboost 0.6
-* pandas, numpy, seaborn, pylab
+* pandas, numpy
