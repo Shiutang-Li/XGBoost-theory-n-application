@@ -34,8 +34,8 @@ This notebook is not copied from any other kernels in kaggles, and it scores top
 **Step 2**
 ```
 python preprocessing.py
-build_xgboost_model.py
-predict.py
+python build_xgboost_model.py
+python predict.py
 ```
 
 ## Dependencies 
