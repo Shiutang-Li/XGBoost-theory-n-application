@@ -8,7 +8,7 @@ An introductory lecture to XGBoost is scheduled in [Big Data Utah meetup](https:
 
 2. Introduction to major XGBoost parameters and parameter tuning.
 
-3. A quick example showing how to apply XGBoost to kaggle Allstate Claims Severity dataset for beginners.  
+3. A quick example showing how to apply XGBoost to kaggle Allstate Claims Severity dataset.  
 Demo jupyter notebook: [Demo.ipynb](https://github.com/Shiutang-Li/Intro-to-XGBoost/blob/master/Demo.ipynb)
 
 |![](3.jpg) | ![](4.jpg)| 
