@@ -18,12 +18,10 @@ Demo jupyter notebook: [Demo.ipynb](https://github.com/Shiutang-Li/Intro-to-XGBo
 
 Given the house price data in Moscow from 2011-2015, the goal of this project is to predict the house prices in Moscow from year 2015-2016. This is a competition currently hosted by kaggle: https://www.kaggle.com/c/sberbank-russian-housing-market
 
-This notebook is not copied from any other kernels in kaggles, and it currently scores top 4% in public leader board (Team name: STL) (https://www.kaggle.com/c/sberbank-russian-housing-market/leaderboard/public?asOf=2017-5-28).
+This notebook is not copied from any other kernels in kaggles, and it currently scores top 3% in public leader board (solo team, name: STL) (https://www.kaggle.com/c/sberbank-russian-housing-market/leaderboard/public?asOf=2017-5-29).
 
 |![](1.jpg) | ![](2.jpg)| 
 |:---:|:---:|
-
-## View the report 
 
 ## Usage
 
