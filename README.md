@@ -25,7 +25,7 @@ This notebook is not copied from any other kernels in kaggles, and it currently 
 
 ## Usage
 
-(Main parameters / some preprocessing steps are removed because this competition is still in progress)
+(Main parameters / key preprocessing steps are removed because this competition is still in progress)
 
 **Step 1.** Download train.csv and test.csv from https://www.kaggle.com/c/sberbank-russian-housing-market/data
 
