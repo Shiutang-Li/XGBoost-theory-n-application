@@ -11,7 +11,7 @@ An introductory lecture to XGBoost is scheduled in [Big Data Utah meetup](https:
 3. A quick example showing how to apply XGBoost to kaggle Allstate Claims Severity dataset.  
 Demo jupyter notebook: [Demo.ipynb](https://github.com/Shiutang-Li/XGBoost-theory-n-application/blob/master/Demo.ipynb)
 
-|![](3.jpg) | ![](4.jpg)| 
+|![](imgs/3.jpg) | ![](imgs/4.jpg)| 
 |:---:|:---:|
 
 ## Introduction: Application
@@ -20,7 +20,7 @@ Given the house price data in Moscow from 2011-2015, the goal of this project is
 
 This notebook is not copied from any other kernels in kaggles, and it currently scores top 1% in public leader board (solo team, name: STL) (https://www.kaggle.com/c/sberbank-russian-housing-market/leaderboard/public?asOf=2017-6-10).
 
-|![](1.jpg) | ![](2.jpg)| 
+|![](imgs/1.jpg) | ![](imgs/2.jpg)| 
 |:---:|:---:|
 
 ## Usage
