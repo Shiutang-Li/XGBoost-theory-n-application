@@ -18,26 +18,8 @@ Demo jupyter notebook: [Demo.ipynb](https://github.com/Shiutang-Li/XGBoost-theor
 
 Given the house price data in Moscow from 2011-2015, the goal of this project is to predict the house prices in Moscow from year 2015-2016. This is a competition currently hosted by kaggle: https://www.kaggle.com/c/sberbank-russian-housing-market
 
-This notebook is not copied from any other kernels in kaggles, and it currently scores top 1% in public leader board (solo team, name: STL) (https://www.kaggle.com/c/sberbank-russian-housing-market/leaderboard/public?asOf=2017-6-10).
+I used XGBoost in this competition and ranked 10th / 3246 teams. I'll talk about the details in a local data science meetup. The leader board can be found in
+https://www.kaggle.com/c/sberbank-russian-housing-market/leaderboard
 
 |![](imgs/1.jpg) | ![](imgs/2.jpg)| 
 |:---:|:---:|
-
-## Usage
-
-(Main parameters / key preprocessing steps are removed because this competition is still in progress)
-
-**Step 1.** Download train.csv and test.csv from https://www.kaggle.com/c/sberbank-russian-housing-market/data
-
-**Step 2.**
-```
-python preprocessing.py
-python build_xgboost_model.py
-python predict.py
-```
-
-## Dependencies 
-
-* Python 3.5
-* xgboost 0.6
-* pandas, numpy
